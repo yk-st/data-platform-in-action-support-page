@@ -2,7 +2,7 @@
 # S.A ローカルデータ分析基盤(data-platform-on-local)
 
 全体像 : ![ローカルデータ分析基盤](images/0B/top.jpg)
-GitHubリポジトリ: https://github.com/yk-st/local-data-platform
+GitHubリポジトリ: ![GitHub](https://github.com/yk-st/local-data-platform)
 
 ## ローカル環境について
 

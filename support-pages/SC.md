@@ -2,7 +2,7 @@
 
 全体像 : ![ローカルデータソース](images/0E/data_source-data-source-v2.jpg)
 
-GitHubリポジトリ: https://github.com/yk-st/data-source
+GitHubリポジトリ: ![GitHub](https://github.com/yk-st/data-source)
 
 ## データソース環境について
 データ分析基盤から見たデータソースとして利用します。

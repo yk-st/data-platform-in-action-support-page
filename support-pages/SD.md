@@ -2,7 +2,7 @@
 ※クラウドとは、とくに断りがない場合は「パブリッククラウド」を指します。
  パブリッククラウドは、インターネット経由で一般利用者向けに提供されるクラウドサービスを意味し、代表的なものにAWS、Azure、Google Cloudなどがあります。
 
-GitHub: https://github.com/yk-st/data-platform-on-aws
+GitHub: ![GitHub](https://github.com/yk-st/data-platform-on-aws)
 
 ## AWSクラウドの基本用語
 
