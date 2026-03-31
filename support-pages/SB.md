@@ -896,11 +896,15 @@ spark.sql("""
 SQLライクなクエリでデータを操作可能です(spark-sqlと呼びます)。
 データフレームAPIで操作できることはSQLでも操作可能です。
 
-```spark-sqlの場合
+spark-sqlの場合
+
+```
 spark.sql("select * from local_data_platform.blz_ingestion.users_min").show()
 ```
 
-```spark-dataframe APIの場合
+spark-dataframe APIの場合
+
+```
 spark.read.table("local_data_platform.blz_ingestion.users_min").show()
 ```
 
@@ -1005,7 +1009,9 @@ spark.sql("""
 Icebergはテーブルのデータをストレージに保存します。
 本書ではS3を利用していますが、HDFSやAzure Blob Storageなども利用可能です。
 
-```usersテーブルのデータ構造
+usersテーブルのデータ構造は以下のようになっています。
+
+```
 
 s3://local-data-platform/warehouse/ref/blz_ingestion.db/users/
 ├─ metadata/                                  # テーブルのメタ情報
