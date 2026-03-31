@@ -12,7 +12,7 @@
 </head>
 
 <div style="text-align: center;">
-  <img src="title.png" width="350" height="450">
+  <img src="title.jpg" width="350" height="450">
 </div>
 
 - title : [改訂新版［エンジニアのための］データ分析基盤入門＜基本編＞　データ活用を促進する！ プラットフォーム＆データ品質の考え方](https://www.amazon.co.jp/%EF%BC%BB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%EF%BC%BD%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%9F%BA%E7%9B%A4%E5%85%A5%E9%96%80%EF%BC%9C%E5%AE%9F%E8%B7%B5%E7%B7%A8%EF%BC%9E-%E4%B8%BB%E8%A6%81%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%81%AB%E5%85%B1%E9%80%9A%E3%81%99%E3%82%8B%E7%90%86%E8%AB%96%C3%97%E6%8A%80%E8%A1%93-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%EF%BC%86%E3%82%AA%E3%83%B3%E3%83%97%E3%83%AC%E5%AF%BE%E5%BF%9C-%E6%96%8E%E8%97%A4-%E5%8F%8B%E6%A8%B9/dp/4297154994?ref_=ast_author_dp&th=1&psc=1)
